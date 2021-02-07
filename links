@@ -2,4 +2,5 @@
 
 https://www.tensorflow.org/tutorials
 https://www.tensorflow.org/tensorboard/get_started
-
+https://wandb.ai/site/articles/wandb-customizing-training-loops-in-tensorflow-2
+https://docs.wandb.ai/integrations/tensorflow
