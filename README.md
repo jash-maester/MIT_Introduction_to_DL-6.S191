@@ -1,5 +1,7 @@
 # MIT_Introduction_to_DL-6.S191
 
+### ***Not completed yet by me***
+
 # For doing the Assignments Here Are the instructions provided my the instructors on their github repo 
 [https://github.com/aamini/introtodeeplearning/](https://github.com/aamini/introtodeeplearning/)
 
